@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import { useSocketContext } from './socketContext'
+import { useSocketContext } from './SocketContext'
 import useConversation from '../zustand/useConversation'
 import sound from "../assets/notification.mp3"
 

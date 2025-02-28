@@ -1,4 +1,4 @@
-import { useSocketContext } from "../../context/socketContext.jsx";
+import { useSocketContext } from "../../context/SocketContext.jsx";
 import useConversation from "../../zustand/useConversation.js";
 
 function Profile({ user }) {
